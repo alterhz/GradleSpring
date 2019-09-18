@@ -1,0 +1,2 @@
+# GradleSpring
+Spring demo project
