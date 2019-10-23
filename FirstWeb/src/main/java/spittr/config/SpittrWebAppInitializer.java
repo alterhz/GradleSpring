@@ -1,6 +1,5 @@
 package spittr.config;
 
-import javax.servlet.Filter;
 import javax.servlet.MultipartConfigElement;
 import javax.servlet.ServletRegistration.Dynamic;
 
