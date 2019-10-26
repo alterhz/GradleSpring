@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE Configure PUBLIC "-//Jetty//Configure//EN" "http://www.eclipse.org/jetty/configure.dtd">
+<Configure>
+    <Call name="setProperty" class="java.lang.System">
+        <Arg>org.eclipse.jetty.annotations.maxWait</Arg>
+        <Arg>120</Arg>
+    </Call>
+</Configure>
