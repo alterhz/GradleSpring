@@ -25,3 +25,11 @@
 hs_err_pid*
 /.metadata/
 */.settings/
+/JavaEffective/.idea/$PRODUCT_WORKSPACE_FILE$
+/JavaEffective/.idea/.gitignore
+/JavaEffective/.idea/encodings.xml
+/JavaEffective/.idea/gradle.xml
+/JavaEffective/.idea/inspectionProfiles/Project_Default.xml
+/JavaEffective/.idea/misc.xml
+/JavaEffective/.idea/uiDesigner.xml
+/JavaEffective/.idea/vcs.xml
